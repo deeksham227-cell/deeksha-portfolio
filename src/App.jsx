@@ -154,7 +154,7 @@ useEffect(() => {
                 I am an Artificial Intelligence and Machine
                 Learning engineering student pursuing B.E.at C Byregowda Institute of Technology,
                 Kolar. I’m passionate about using technology to turn ideas into practical solutions.
-                My interests span Artificial Intelligence, Machine Learning, NLP, and web development,
+                My interests span Artificial Intelligence, Machine Learning, and web development,
                 with a focus on creating useful and user-friendly applications.
               </p>  
 
@@ -406,21 +406,6 @@ useEffect(() => {
 
               <p>
                 Intelligent Applications
-              </p>
-            </div>
-
-
-            <div className="skill-card">
-              <div className="skill-icon">
-                💬
-              </div>
-
-              <h3>
-                NLP
-              </h3>
-
-              <p>
-                Natural Language Processing
               </p>
             </div>
 
